@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background: #111;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.text {
+  font-size: 35px;
+  color: lightgreen;
+  text-align: center;
+  line-height: 1em;
+}
+
+.line {
+  background: #fff;
+  height: 8px;
+  border-radius: 4px;
+  width: 0%;
+  position: fixed;
+  top: 0px;
+}
